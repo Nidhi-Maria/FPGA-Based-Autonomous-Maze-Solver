@@ -1,0 +1,36 @@
+# Quartus compilation output — do not commit these
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+
+# Quartus generated files
+*.rpt
+*.smsg
+*.summary
+*.pin
+*.sof
+*.pof
+*.rbf
+*.jic
+*.ekp
+*.jam
+*.jbc
+*.jic
+*.map
+*.asm.rpt
+*.map.rpt
+*.fit.rpt
+*.sta.rpt
+*.tan.rpt
+*.eda.rpt
+*.qws
+*.bak
+*.orig
+
+
+# OS files
+.DS_Store
+Thumbs.db
+ 
